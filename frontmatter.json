@@ -241,9 +241,9 @@
   "frontMatter.framework.id": "jekyll",
   "frontMatter.framework.startCommand": "bundle exec jekyll serve --trace --livereload",
   "frontMatter.content.publicFolder": "assets",
-  "frontMatter.preview.host": "http://127.0.0.1:4000/amp-affiliately-jekyll-theme/",
-  "frontMatter.site.baseURL": "https://chriskyfung.github.io/",
-  "frontMatter.website.host": "https://chriskyfung.github.io/amp-affiliately-jekyll-theme/",
+  "frontMatter.preview.host": "http://127.0.0.1:4000/shanumnoorhumaira.github.io/",
+  "frontMatter.site.baseURL": "https://shanumnoorhumaira.github.io/",
+  "frontMatter.website.host": "https://shanumnoorhumaira.github.io/shanumnoorhumaira.github.io/",
   "frontMatter.taxonomy.slugTemplate": "{{seoTitle}}",
   "frontMatter.taxonomy.seoDescriptionField": "excerpt",
   "frontMatter.content.pageFolders": [
