@@ -23,7 +23,7 @@ name: "AMP Affiliately Jekyll Theme"
 title: "AMP Affiliately Jekyll Theme"
 description: "An AMP-ready Jekyll blog theme"
 url: 'https://shanumnoorhumaira.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: '/shanumnoorhumaira.github.io' # the subpath of your site, e.g. /blog
+baseurl: 'shanumnoorhumaira/shanumnoorhumaira.github.io' # the subpath of your site, e.g. /blog
 favicon: 'assets/images/favicon.png'
 logo: 'assets/images/logo-plainSVG.svg'
 permalink: /:year/:month/:day/:title
@@ -31,7 +31,7 @@ paginate: 6
 timezone: 'Asia/Hong_Kong'
 
 # Set <USERNAME>/<PROJECT> to display the button to the project
-repository: chriskyfung/amp-affiliately-jekyll-theme
+repository: shanumnoorhumaira/shanumnoorhumaira.github.io
 
 # Navigation Features
 nav:
