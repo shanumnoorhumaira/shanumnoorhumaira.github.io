@@ -23,7 +23,7 @@ name: "AMP Affiliately Jekyll Theme"
 title: "AMP Affiliately Jekyll Theme"
 description: "An AMP-ready Jekyll blog theme"
 url: 'https://shanumnoorhumaira.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: '/amp-affiliately-jekyll-theme' # the subpath of your site, e.g. /blog
+baseurl: '/shanumnoorhumaira.github.io' # the subpath of your site, e.g. /blog
 favicon: 'assets/images/favicon.png'
 logo: 'assets/images/logo-plainSVG.svg'
 permalink: /:year/:month/:day/:title
